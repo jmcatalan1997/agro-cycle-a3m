@@ -94,4 +94,6 @@ See `CITATION.cff`.
 
 ## License
 
-A final repository license will be added before public release. See `LICENSE_PENDING.md`.
+Repository-authored data, coding matrices, codebooks, and documentation are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0), except where otherwise noted.
+
+See `LICENSE.md`.
