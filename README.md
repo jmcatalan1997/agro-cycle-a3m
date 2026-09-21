@@ -88,6 +88,12 @@ The corpus was used for conceptual development and evidence mapping. It should n
 
 Full-text PDFs of the 48 source publications are not redistributed in this repository. Bibliographic information and DOI-based traceability are retained in the accompanying spreadsheets.
 
+## Archived release
+
+Version v1.0.0 is permanently archived in Zenodo:
+
+**DOI:** https://doi.org/10.5281/zenodo.22883822
+
 ## Citation
 
 See `CITATION.cff`.
