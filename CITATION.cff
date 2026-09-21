@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these data or the A3M codebook, please cite the associated paper and this repository release."
+title: "Agro-Cycle A3M: Supporting Data and Reproducibility Materials"
+type: dataset
+authors:
+  - family-names: "Catalán Chávez"
+    given-names: "José Manuel"
+  - family-names: "Soriano"
+    given-names: "Luis Arturo"
+  - family-names: "Balderas-Silva"
+    given-names: "David"
+  - family-names: "Olguín-Rojas"
+    given-names: "Juan Carlos"
+  - family-names: "Cervantes-Bazán"
+    given-names: "Josué Vicente"
+  - family-names: "Corzo Burguete"
+    given-names: "Magaly Fernanda"
+version: 1.0.0
+date-released: 2026-09-21
+repository-code: "TO_BE_ASSIGNED"
